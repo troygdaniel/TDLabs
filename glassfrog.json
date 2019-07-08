@@ -11,8 +11,8 @@
        "name": "Scrumps",
        "children": [
         {
-          "name": "PO", "value": 6725          
-          "name": "SM", "value": 6725          
+          "name": "PO", "value": 6725,          
+          "name": "SM", "value": 6725,         
           "name": "TM", "value": 6725          
         },
         {"name": "Data Davincis", "value": 3727},
