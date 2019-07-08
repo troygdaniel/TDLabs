@@ -5,13 +5,10 @@
    "name": "Scrumps", 
    "children": [
     {
-     "name": "cluster",
-     "children": [
-      {"name": "SM", "value": 3938},
-      {"name": "PO", "value": 3812},
-      {"name": "TM", "value": 6714},
-      {"name": "TM", "value": 743}
-     ]
+     "name": "SM", 
+     "name": "PO", 
+     "name": "TM", 
+     "name": "TM"
     },
     {
      "name": "graph",
