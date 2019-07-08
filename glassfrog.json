@@ -8,12 +8,12 @@
      "name": "AA",
      "children": [    
       {
-       "name": "BB",
+       "name": "Scrumps",
        "children": [
         {
-          "name": "Scrumps", "value": 6725, 
-          "children":["SM","PO","TM"]
-          
+          "name": "PO", "value": 6725          
+          "name": "SM", "value": 6725          
+          "name": "TM", "value": 6725          
         },
         {"name": "Data Davincis", "value": 3727},
         {"name": "CircleLayout", "value": 9317},
