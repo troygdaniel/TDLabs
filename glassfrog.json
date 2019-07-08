@@ -10,13 +10,9 @@
       {
        "name": "Scrumps",
        "children": [
-        {
-          "name": "PO", "value": 6725,          
-          "name": "SM", "value": 6725,         
-          "name": "TM", "value": 6725          
-        },
-        {"name": "Data Davincis", "value": 3727},
-        {"name": "CircleLayout", "value": 9317},
+        {"name": "PO", "value": 6725},
+        {"name": "SM", "value": 3727},
+        {"name": "TM", "value": 9317},
         {"name": "CirclePackingLayout", "value": 12003},
         {"name": "DendrogramLayout", "value": 4853},
         {"name": "ForceDirectedLayout", "value": 8411},
