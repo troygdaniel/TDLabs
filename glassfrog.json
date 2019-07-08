@@ -1,32 +1,12 @@
 {
  "name": "IT Department",
- "children": [
-  {
+ "children": [{
    "name": "Scrumps", 
-   "children": [
-    {
+   "children": [{
      "name": "SM", 
      "name": "PO", 
      "name": "TM", 
      "name": "TM"
-    },
-    {
-     "name": "graph",
-     "children": [
-      {"name": "BetweennessCentrality", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
-      {"name": "MaxFlowMinCut", "value": 7840},
-      {"name": "ShortestPaths", "value": 5914},
-      {"name": "SpanningTree", "value": 3416}
-     ]
-    },
-    {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
-     ]
-    }
-   ]
-  }
- ]
+    }]
+  }]
 }
