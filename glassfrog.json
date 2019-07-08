@@ -7,10 +7,10 @@
     {
      "name": "cluster",
      "children": [
-      {"name": "Scrum Master", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+      {"name": "SM", "value": 3938},
+      {"name": "PO", "value": 3812},
+      {"name": "TM", "value": 6714},
+      {"name": "TM", "value": 743}
      ]
     },
     {
