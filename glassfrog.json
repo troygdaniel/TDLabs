@@ -6,42 +6,7 @@
    "children": [
     {
      "name": "operator",
-     "children": [
-      {
-       "name": "distortion",
-       "children": [
-        {"name": "BifocalDistortion", "value": 4461},
-        {"name": "Distortion", "value": 6314},
-        {"name": "FisheyeDistortion", "value": 3444}
-       ]
-      },
-      {
-       "name": "encoder",
-       "children": [
-        {"name": "ColorEncoder", "value": 3179},
-        {"name": "Encoder", "value": 4060},
-        {"name": "PropertyEncoder", "value": 4138},
-        {"name": "ShapeEncoder", "value": 1690},
-        {"name": "SizeEncoder", "value": 1830}
-       ]
-      },
-      {
-       "name": "filter",
-       "children": [
-        {"name": "FisheyeTreeFilter", "value": 5219},
-        {"name": "GraphDistanceFilter", "value": 3165},
-        {"name": "VisibilityFilter", "value": 3509}
-       ]
-      },
-      {"name": "IOperator", "value": 1286},
-      {
-       "name": "label",
-       "children": [
-        {"name": "Labeler", "value": 9956},
-        {"name": "RadialLabeler", "value": 3899},
-        {"name": "StackedAreaLabeler", "value": 3202}
-       ]
-      },
+     "children": [    
       {
        "name": "layout",
        "children": [
