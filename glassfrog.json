@@ -2,16 +2,20 @@
  "name": "flare",
  "children": [
   {
-   "name": "vis",
+   "name": "IT",
    "children": [
     {
-     "name": "operator",
+     "name": "AA",
      "children": [    
       {
-       "name": "layout",
+       "name": "BB",
        "children": [
-        {"name": "AxisLayout", "value": 6725},
-        {"name": "BundledEdgeRouter", "value": 3727},
+        {
+          "name": "Scrumps", "value": 6725, 
+          "children":["SM","PO","TM"]
+          
+        },
+        {"name": "Data Davincis", "value": 3727},
         {"name": "CircleLayout", "value": 9317},
         {"name": "CirclePackingLayout", "value": 12003},
         {"name": "DendrogramLayout", "value": 4853},
